@@ -1,5 +1,0 @@
-Nale¿y ustawiæ maksymalnie du¿y bufor w konsoli oraz wy³¹czyæ zawijanie wierszy - inaczej histogram mo¿e wyœwietliæ sie niepoprawnie.
-
-Program dzia³a dla plików z rozszerzeniem bmp.
-
-Podczas wpisywania nazwy programu nie wolno zapomnieæ o uwzglêdnieniu roszerzenia - inaczej plik nie zostanie znaleziony.
